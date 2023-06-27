@@ -3,6 +3,9 @@ CheckData es una aplicación diseñada para ayudar a los usuarios de dispositivo
 
 # UI
 DarkMode
+
 ![Lightmode](https://github.com/Maxdesigna7x/CheckData-Unity-App/assets/21130878/9f96e6cd-fb7e-49fd-af83-ba4793615790)
+
 LightMode
+
 ![darkmode](https://github.com/Maxdesigna7x/CheckData-Unity-App/assets/21130878/272b8d91-a868-499b-9239-213703d72880)
